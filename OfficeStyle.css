@@ -1,0 +1,106 @@
+body {
+	background-color:#241F1E;
+}
+
+#_ {
+	color:yellow; 
+	position:relative;
+	bottom:4px;
+}
+
+#One {
+	color:#B1C4A7;
+	font-size:45px;
+}
+
+#Games{
+	font-size:40px;
+	color:white;
+	background-color:purple;
+}
+
+#GOLOVNA {
+	font-size:40px;
+	color:white;
+	background-color:purple;	
+}
+
+#Garvis {
+	font-size:20px;
+	color:black;
+	background-color:white;
+}
+
+#Office {
+	font-size:40px;
+	color:white;
+	background-color:purple;
+}
+
+
+#Download_Calc {
+	color:yellow;
+	font-size:40px;
+	position: relative;
+	bottom:20px;
+}
+
+#Download_Notepad {
+	color:yellow;
+	font-size:40px;
+	position: relative;
+	bottom: 278px;
+	left:600px;
+}
+
+#Two{
+	color:#B1C4A7;
+	font-size:45px;	
+	position:relative;
+	top:100px;
+	right:750px;
+}
+
+#Download_Pr {
+	color:yellow;
+	font-size:40px;
+	position: relative;
+	bottom:150px;
+	left:145px;
+}
+
+#Prog {
+	position:relative;
+	top:170px;
+	right:60px;
+
+}
+
+#Notepad_IMG {
+	position:relative;
+	left:440px;
+}
+
+#three {
+	color:#B1C4A7;
+	font-size:50px;	
+	position:relative;	
+	left:430px; 
+	bottom:194px;
+}
+
+#eee {
+	color:#B1C4A7;
+	font-size:45px;	
+	position:relative;
+	left:430px;
+	bottom: 195px;
+}
+
+#Download_eee {
+	color:yellow;
+	font-size:40px;
+	position: relative;
+	bottom: 150px;
+	left: 140px;
+}
